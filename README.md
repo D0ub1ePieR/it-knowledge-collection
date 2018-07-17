@@ -10,5 +10,8 @@
 ### Web开发
 * **[前端性能](./domain/web/前端性能.md)**
 
+# 投稿
+如果你想要帮助我一起整理IT知识点，欢迎[提 issue](https://github.com/FlyAndNotDown/it-knowledge-collection/issues)，然后与我[邮箱联系](mailto:461425614@qq.com)
+
 # 关于
 整理者：John Kindem
