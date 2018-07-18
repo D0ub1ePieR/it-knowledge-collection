@@ -48,3 +48,4 @@
 
 # 贡献者
 * [John Kindem](https://github.com/FlyAndNotDown)
+* 如果忘了加请issue提醒我
